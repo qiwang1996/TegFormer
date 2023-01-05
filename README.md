@@ -1,5 +1,21 @@
-# TegFormer
-Code for EMNLP 2022 submission titled "TegFormer: Towards Better Topic-Consistency and Text-Logic on Topic-to-Essay Generation"
+# TegFormer  
+Code for ArXiv submission titled "TegFormer: Towards Better Topic-Consistency and Text-Logic on Topic-to-Essay Generation"  (https://arxiv.org/abs/2212.13456)  
+
+## --Field--
+CS Concepts: Natural Language Processing -->  Natural Language Generation --> Topic-to-essay Generation  
+![1672910142129](https://user-images.githubusercontent.com/29347148/210744194-4d7ceae3-a4df-4887-b5ae-39027f72f544.png)  
+
+## --Net Architecture--  
+![1672909915852](https://user-images.githubusercontent.com/29347148/210743393-4187cf22-30c4-4e58-bdfe-9573d59eb1d4.png)  
+
+## --Experiments--   
+### Main experiment  
+![1672909978501](https://user-images.githubusercontent.com/29347148/210743621-30448262-de31-408e-8d0a-37718f8f7113.png)  
+### Hyperparameter Analysis
+![1672910058032](https://user-images.githubusercontent.com/29347148/210743881-7f831287-bea3-44c2-87ac-8a12816b2420.png)  
+### Ablation Studies
+![1672910117930](https://user-images.githubusercontent.com/29347148/210744079-ae606329-f26b-4b69-aa20-9ea54bf5ccb7.png)  
+
 
 ## --Instructions--  
 ### For Essay  
